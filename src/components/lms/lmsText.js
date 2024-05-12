@@ -1,0 +1,23 @@
+//index.js
+export const lms_index_heading = 'Leave Management System';
+export const search_task = 'Search task';
+export const sort = 'Sort';
+export const filter = 'Filter';
+export const add_new = '+ Add New';
+export const employee_not_found = 'No lms created Yet Kindly create employee lms';
+// export const emp_id = 'Employee ID';
+export const emp_name = 'Employee Name';
+export const emp_desig = 'Designation';
+export const emp_depart = 'Department';
+export const emp_status = 'Status';
+export const emp_no_of_proj = 'No of Projects';
+export const emp_Action = 'Actions';
+export const emp_id = 'Employee ID';
+export const emp_designation = 'Designation';
+// export const emp_start_date = ';
+export const emp_start_date = 'Start  Date';
+export const emp_end_date = 'End Date ';
+export const emp_no_of_leave = 'No of Leaves';
+export const quoat = 'Quota ';
+export const status = 'Status ';
+export const emp_leave_type = 'Leave type';
